@@ -1,4 +1,4 @@
-The Evolution of Political Ideology and Polarization in Advanced Democracies: A Seat-Share and Gini-Based Analysis (1900–2023)
+***The Evolution of Political Ideology and Polarization in Advanced Democracies: A Seat-Share and Gini-Based Analysis (1900–2023)***
 
 This investigation was inspired on Ray Dalio's concept of internal order, wherein the long-term health of a political system depends on whether factions operate within a shared institutional framework. Dalio argues that when internal conflict increases—especially when ideological factions become extreme or uncompromising—the internal order weakens, setting the stage for instability or collapse (end of an empire).
 
