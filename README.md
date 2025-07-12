@@ -1,9 +1,9 @@
-***The Evolution of Political Ideology and Polarization in Advanced Democracies: A Seat-Share and Gini-Based Analysis (1900–2023)***
+*The Evolution of Political Ideology and Polarization in Advanced Democracies: A Seat-Share and Gini-Based Analysis (1900–2023)*
 
 This investigation was inspired on Ray Dalio's concept of internal order, wherein the long-term health of a political system depends on whether factions operate within a shared institutional framework. Dalio argues that when internal conflict increases—especially when ideological factions become extreme or uncompromising—the internal order weakens, setting the stage for instability or collapse (end of an empire).
 
 Research Question:
-Are we witnessing the slow erosion of the liberal democratic status quo — what might be seen as the "centrist empire" of modern democracy?
+Are we witnessing the slow erosion of the liberal democratic status quo, what might be seen as the "centrist empire" of modern democracy?
 
 Abstract:
 This paper analyzes the evolution of ideological balance and polarization across advanced democracies over the last century. Using a unique dataset of parliamentary seat distributions coded by ideology, it examines long-term trends in ideological dominance, center stability, and the rise of polarization. We use a Gini coefficient framework to measure ideological dispersion and identify critical thresholds that threaten democratic stability. The findings show a stable centrist equilibrium in most democracies, with periods of fragmentation emerging in line with historical and contemporary challenges.
